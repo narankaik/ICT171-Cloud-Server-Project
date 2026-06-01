@@ -59,10 +59,6 @@ Configuration:
 | Size | B1s |
 | Authentication | SSH Key |
 
-Screenshot:
-
-![Azure VM Creation](screenshots/vm-creation.png)
-
 ---
 
 ### 2. Network Security Group Configuration
@@ -75,9 +71,6 @@ Inbound ports opened:
 | 80 | HTTP |
 | 443 | HTTPS |
 
-Screenshot:
-
-![NSG Rules](screenshots/nsg-rules.png)
 
 ---
 
@@ -86,4 +79,4 @@ Screenshot:
 Command used:
 
 ```bash
-ssh -i portfolio_key.pem azureuser@YOUR_PUBLIC_IP
+ssh -i <private-key-file-path> sankaire@20.70.155.162
