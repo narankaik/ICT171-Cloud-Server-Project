@@ -32,6 +32,17 @@ The project demonstrates cloud server deployment, SSH access, Linux server admin
 - HTML/CSS
 
 ---
+## Repository Contents
+
+- Azure VM Setup
+- Network Configuration
+- Nginx Installation
+- Website Deployment
+- DNS Configuration
+- SSL Configuration
+- Monitoring Script
+- Video Explainer
+
 
 ## Server Setup Steps
 
