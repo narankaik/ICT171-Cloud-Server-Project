@@ -4,8 +4,8 @@
 
 **Student Name:** Clinton Narankaik  
 **Student Number:** 34874536  
-**Public IP Address:**  http://20.70.155.162/
-**DNS Name:**  clintonportfolio2026.australiaeast.cloudapp.azure.com
+**Public IP Address:**  http://20.70.155.162/ 
+**DNS Name:**  clintonportfolio2026.australiaeast.cloudapp.azure.com 
 **Live Website:**   https://clintonportfolio2026.australiaeast.cloudapp.azure.com
 **Video Explainer:** [Insert Video Link]
 
