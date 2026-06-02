@@ -16,7 +16,6 @@ Nginx serves website files from:
 
 ```bash
 sudo cp index.html /var/www/html/
-sudo cp style.css /var/www/html/
 ```
 
 If using a full website folder:
