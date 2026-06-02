@@ -36,8 +36,7 @@ https://clintonportfolio2026.australiaeast.cloudapp.azure.com
 ## Video Explainer
 
 **Video Link:**
-[Insert YouTube Video Link Here]
-
+https://1drv.ms/v/c/cc89f311ed5085a5/IQBXLVpWrBWZSIqmPGnA0g6ZAXFv_F0Q5yBNGt3-d6cZ9XE?e=VDowQQ
 ---
 
 ## Technologies Used
