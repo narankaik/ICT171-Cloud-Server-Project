@@ -1,1 +1,32 @@
 
+# Azure Virtual Machine Creation
+
+## Objective
+
+Create a Linux virtual machine within Microsoft Azure to host the portfolio website.
+
+## Configuration
+
+| Setting | Value |
+|----------|----------|
+| Cloud Provider | Microsoft Azure |
+| Region | Australia East |
+| Operating System | Ubuntu Server 24.04 LTS |
+| Authentication | SSH Key |
+| Public IP | Dynamic |
+| VM Size | B1s |
+
+## Procedure
+
+1. Logged into Azure Portal.
+2. Created a new Resource Group.
+3. Selected Ubuntu Server 24.04 LTS.
+4. Configured VM size.
+5. Enabled SSH authentication.
+6. Downloaded SSH private key.
+7. Created the virtual machine.
+
+## Verification
+
+
+The VM was successfully deployed and assigned a public IP address
