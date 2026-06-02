@@ -7,8 +7,8 @@
 **Public IP Address:**  http://20.70.155.162/ 
 **DNS Name:**  clintonportfolio2026.australiaeast.cloudapp.azure.com 
 **Live Website:**   https://clintonportfolio2026.australiaeast.cloudapp.azure.com
-**Video Explainer:** [Insert Video Link]
-
+**Video Explainer:** 
+https://1drv.ms/v/c/cc89f311ed5085a5/IQBXLVpWrBWZSIqmPGnA0g6ZAXFv_F0Q5yBNGt3-d6cZ9XE?e=VDowQQ
 ---
 
 ## Project Overview
