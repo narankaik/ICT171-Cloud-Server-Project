@@ -7,7 +7,7 @@ Securely connect to the Linux server using SSH.
 ## Command
 
 ```bash
-ssh -i sankaire_key.pem azureuser@clintonportfolio2026.australiaeast.cloudapp.azure.com
+ ssh -i "C:\Users\Owner\Downloads\sankaire_key.pem" sankaire@20.70.155.162
 ```
 
 ## Verification
